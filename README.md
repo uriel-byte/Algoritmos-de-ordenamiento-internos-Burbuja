@@ -6,6 +6,8 @@ menos eficiente y por ello, normalmente, se aprende su técnica pero no suele ut
 
 + La técnica utilizada se denomina ordenación por burbuja u ordenación por hundimiento debido a que los valores más pequeños “burbujean” gradualmente (suben) hacia la cima o parte superior del array de modo similar a como suben las burbujas en el agua, mientras que los valores mayores se hunden en la parte inferior del array.
 
++ algoritmo de la burbuja: para un array con n elementos, la ordenación por burbuja requiere hasta n – 1 pasadas. Por cada pasada se comparan elementos adyacentes y se intercambian sus valores cuando el primer elemento es mayor que el segundo elemento. Al final de cada pasada, el elemento mayor ha “burbujeado” hasta la cima de la sublista actual
+
 
 ![Captura de pantalla (397) png](https://user-images.githubusercontent.com/71051834/97531863-ba770980-197a-11eb-8a13-d720d2bd1f7a.jpg)
 
