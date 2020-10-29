@@ -10,7 +10,9 @@ menos eficiente y por ello, normalmente, se aprende su técnica pero no suele ut
 ![Captura de pantalla (397) png](https://user-images.githubusercontent.com/71051834/97531863-ba770980-197a-11eb-8a13-d720d2bd1f7a.jpg)
 
 
+aqui estan una captura de pantalla mostrando que el programa si funciona.
 
+los datos que se muestran son estaticos.
 ![Captura de pantalla (398) png](https://user-images.githubusercontent.com/71051834/97531867-bc40cd00-197a-11eb-914f-0341918e47b5.jpg)
 
 
