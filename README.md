@@ -15,7 +15,7 @@ en la imagen podemos ver el array que esta dado por 5 numero y esto ya esta dado
 
 aqui estan una captura de pantalla mostrando que el programa si funciona.
 
-los datos que se muestran son estaticos, con esto me refiero que son cinco del uno al cinco los numeros desordenados. lo que hace el programa es ordenarlos de forma Ascendente y  de forma Descendente.
+los datos o numeros que se muestran ya estan dados con esto me refiero que son cinco numeros del uno al cinco estosnumeros desordenados. lo que hace el programa es ordenarlos de forma Ascendente y  de forma Descendente comparando el tipo de dato.
 
 
 ![Captura de pantalla (398) png](https://user-images.githubusercontent.com/71051834/97531867-bc40cd00-197a-11eb-914f-0341918e47b5.jpg)
